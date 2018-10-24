@@ -1,0 +1,20 @@
+{
+    "notifications": [
+        {
+            "id": 2,
+            "type": "instagram",
+            "created_at": 1540365090,
+            "title": "Bułka żytnia z sałatą, serem feta i polędwicą z kurczaka",
+            "image": "https://raw.githubusercontent.com/tomkowz/glycemic-index-calculator-data/master/static/2.jpg",
+            "external": "https://www.instagram.com/p/BovuNCRnTcf/?taken-by=biegajacy_dietetyk&source=indeksy_app"
+        },
+        {
+            "id": 1,
+            "type": "instagram",
+            "created_at": 1540365088,
+            "title": "Bułka żytnia z sałatą, serem feta i polędwicą z kurczaka",
+            "image": "https://raw.githubusercontent.com/tomkowz/glycemic-index-calculator-data/master/static/1.jpg",
+            "external": "https://www.instagram.com/p/Bo3gqlznKpY/?taken-by=biegajacy_dietetyk&source=indeksy_app"
+        }
+    ]
+}
