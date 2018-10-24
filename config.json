@@ -1,4 +1,7 @@
 {
-    "default_products_updated_at": 1540365092,
+    "default_products": {
+        "updated_at": 1540365092,
+        "url": "https://raw.githubusercontent.com//tomkowz/glycemic-index-calculator-data/master/data.db"
+    },
     "notifications_updated_at": 1540366178
 }
